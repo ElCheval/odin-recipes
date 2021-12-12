@@ -1,0 +1,16 @@
+* {
+    background-color: lightsteelblue;
+}
+
+img,
+h1{
+    height: auto;
+    width: 500px;
+}
+
+h1 {
+    background-color: lightgray;
+    font-weight: lighter;
+    text-align: center;
+}
+
